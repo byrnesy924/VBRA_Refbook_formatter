@@ -3,9 +3,9 @@ A small piece of software that re-formats the .csv/.xlsx that Waverley Basketbal
 
 ## Table of Contents
 
-- [Context and Problem](#Context and Problem)
+- [Context and Problem](#Context_and_Problem)
 - [Solution](#Solution)
-- [TKTinter_UI](#TKTinter_UI)
+- [TKTinter UI](#TKTinter_UI)
 - [Result](#Result)
 
 
