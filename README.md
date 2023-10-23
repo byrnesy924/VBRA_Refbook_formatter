@@ -14,4 +14,6 @@ It includes a very rudimentary ui written with TKinter
 
 The script was compiled with PyInstaller for anyone wishing to us it, so someone who is non-technical could simply run the .exe and transform any file in seconds, rather than in an hour.
 
+### TKTinter UI
+In order to get some practice using TKinter, the UI created shows a preview of both the file being uploaded to the program and the output. 
 
