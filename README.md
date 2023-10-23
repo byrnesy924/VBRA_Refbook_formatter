@@ -8,7 +8,7 @@ The association hosting the competition, Waverley Basketball Association (WBA), 
 However, the formats that WBA's back end would produce and what Refbook required were slightly different, and each week someone would manually edit the values of the .xlsx in excel. This was a time consuming, and would often take up to an hour to do so.
 
 ## The solution
-This small python script cperforms the simple data operations to convert one format to the other. 
+This small python script performs the simple data operations to convert one format to the other, using pandas.
 
 It includes a very rudimentary ui written with TKinter
 
